@@ -9,5 +9,7 @@ Defination of Digital PDF?
 Defination of Non-digital PDF?
 -> If the pdf contains simple text in it. So that pdf must has font resource in pdf page resources.
 
-We are using PyPDF2 know library to extract information from PDF documents.
+We are using PyPDF2 known library to extract information from PDF documents.
 Using PyPDF2 we are first checking font resource present in page resource.
+Based on presence of font resource we are getting conclusion.
+
