@@ -1,0 +1,16 @@
+PDF digital non-digital segregrator.
+. The best way to find this is finding wheather pdf contains PDF as   resource property.
+. If pdf contains images then we can not find font.
+. If pdf is mixed type then keep flag to monitoring.
+
+
+Input:
+- PDF file and Path
+
+Output:
+- PDF is digital.
+- PDF is non-digital.
+- PDF is mixed type.
+
+
+
