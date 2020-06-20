@@ -2,6 +2,7 @@
 Classification - PDF is digital or non-digital using the power of Python.
 
 We are using simple method. 
+
 Defination of Digital PDF?
 -> If the pdf contains scaned images in it that pdf page is called digital pdf page.
 
